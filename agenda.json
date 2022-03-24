@@ -1,0 +1,70 @@
+{
+  "jadwal": [
+    {
+      "tanggal": "2022-04-01",
+      "deskripsi": "Jadwal Keputrian hari ini dilaksanakan oleh kelas 12 RPL A sampai 12 RPL C dan kelas 11 RPL A sampai 11 RPL C",
+      "dibuat": {
+        "seconds": 1646461840,
+        "nanoseconds": 513000000
+      },
+      "penulis": "Saskia",
+      "kegiatan": "Keputrian Jumat",
+      "id": "D3sNq8RZAFaZK1BIhQh3"
+    },
+    {
+      "dibuat": {
+        "seconds": 1646461721,
+        "nanoseconds": 43000000
+      },
+      "deskripsi": "Sholat Jumat hari ini dilaksanakan di masjid lukamnul hakim",
+      "tanggal": "2022-03-25",
+      "penulis": "Satrio",
+      "kegiatan": "Sholat Jumat",
+      "id": "OB2S5bI7G1dHk2AowkfW"
+    },
+    {
+      "dibuat": {
+        "seconds": 1646461675,
+        "nanoseconds": 281000000
+      },
+      "kegiatan": "Study Tour",
+      "penulis": "Satrio",
+      "deskripsi": "Acara Study tour oleh seluruh siswa",
+      "tanggal": "2022-03-13",
+      "id": "W3rC86l9QDUMJOWw1frH"
+    },
+    {
+      "kegiatan": "Foto Ijazah",
+      "deskripsi": "Foto ijazah yang akan diikuti oleh seluruh siswa kelas 12 ",
+      "dibuat": {
+        "seconds": 1646461597,
+        "nanoseconds": 513000000
+      },
+      "tanggal": "2022-03-26",
+      "penulis": "Satrio",
+      "id": "n6g4ksNS30J3E5tQCkk8"
+    },
+    {
+      "tanggal": "2022-03-13",
+      "deskripsi": "UKK dan ISP yang akan diikuti oleh seluruh siswa kelas 12",
+      "penulis": "Satrio",
+      "kegiatan": "UKK dan ISP",
+      "dibuat": {
+        "seconds": 1646461456,
+        "nanoseconds": 733000000
+      },
+      "id": "5wqzmq9u1Ml2sjrAAwxn"
+    },
+    {
+      "deskripsi": "Pengumpulan file TA JAVA untuk mata pelajaran bu tyas",
+      "tanggal": "2022-03-12",
+      "dibuat": {
+        "seconds": 1646461355,
+        "nanoseconds": 14000000
+      },
+      "kegiatan": "Pengumpulan TA",
+      "penulis": "Satrio",
+      "id": "ADiZizCuseD1UHkRoZmy"
+    }
+  ]
+}
